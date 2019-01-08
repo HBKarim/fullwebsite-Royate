@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/fullwebsite-Royate/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "3a43630eaa1725164f40",
-    "url": "/fullwebsite-Royate/static/css/main.69cd0cc4.chunk.css"
+    "revision": "83c53f7ab0afd6f3c94f",
+    "url": "/fullwebsite-Royate/static/css/main.fec22e98.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -20,8 +20,12 @@ self.__precacheManifest = [
     "url": "/fullwebsite-Royate/static/js/runtime~main.734f0538.js"
   },
   {
-    "revision": "3a43630eaa1725164f40",
-    "url": "/fullwebsite-Royate/static/js/main.3a43630e.chunk.js"
+    "revision": "83c53f7ab0afd6f3c94f",
+    "url": "/fullwebsite-Royate/static/js/main.83c53f7a.chunk.js"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/fullwebsite-Royate/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -32,15 +36,11 @@ self.__precacheManifest = [
     "url": "/fullwebsite-Royate/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/fullwebsite-Royate/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
     "revision": "5830192e19f9946328df",
     "url": "/fullwebsite-Royate/static/css/1.4bbdb1b1.chunk.css"
   },
   {
-    "revision": "59a8cfad9bb1984ca887695752ccb647",
+    "revision": "5c86f77afa612b8a83e2d8c228e5b154",
     "url": "/fullwebsite-Royate/index.html"
   }
 ];
