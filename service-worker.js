@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Royate-website/precache-manifest.84a1279be5876d18e2c2003f474d9aba.js"
+  "/fullwebsite-Royate/precache-manifest.ee4dc864106ab71d13484d490c489d87.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Royate-website/index.html", {
+workbox.routing.registerNavigationRoute("/fullwebsite-Royate/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
