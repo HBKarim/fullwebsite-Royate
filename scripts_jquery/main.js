@@ -21,9 +21,6 @@ $(document).ready(function() {
   $("#toTop").click(function() {
     $("html, body").animate({ scrollTop: 0 }, 1000);
   });
-  $(".loadingPage")
-    .delay(5000)
-    .fadeOut();
 
   $(".show_menu").click(function() {
     $("#navbarNav").animate({ opacity: "1" });
@@ -36,4 +33,7 @@ $(document).ready(function() {
   $(".search_icon").click(function() {
     $(".search_element").toggle();
   });
+  $(".loadingPage")
+    .delay(8000)
+    .fadeOut();
 });
