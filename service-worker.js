@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fullwebsite-Royate/precache-manifest.dcf2a5f2601798ef39507fe01609b8fe.js"
+  "/fullwebsite-Royate/precache-manifest.a4afc9c869646d79a65129c29cde7b15.js"
 );
 
 workbox.clientsClaim();
