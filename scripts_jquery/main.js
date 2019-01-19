@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  $("#URL_location").val(window.location);
   $(".loadingPage").height($(window).height());
   $("body").niceScroll({
     cursorcolor: "#181818",
